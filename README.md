@@ -1,2 +1,2 @@
 # Love Letter Server
-TODO
+This is a server lmao
